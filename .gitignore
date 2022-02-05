@@ -127,3 +127,10 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# Datasets
+dataset.zip
+dataset-part1.csv
+dataset-part2.csv
+dataset-part3.csv
+dataset-part4.csv
