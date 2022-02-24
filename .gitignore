@@ -141,3 +141,9 @@ x_validation_smote_oversample.csv
 x_train_smote_oversample.csv
 x_test_smote_oversample.csv
 datafinal.csv
+x_test_smote_undersample.csv
+y_test_smote_undersample.csv
+x_train_smote_undersample.csv
+y_train_smote_undersample.csv
+x_validation_smote_undersample.csv
+y_validation_smote_undersample.csv
